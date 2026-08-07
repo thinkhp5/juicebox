@@ -8,7 +8,7 @@
 
 - 🌱 I’m learning **Agentic AI & Loop engineering**
 
-- 👯 I’m looking to collaborate on **Agentic AI Asecurity research papers**
+- 👯 I’m looking to collaborate on **Agentic AI security research papers**
 
 - 👨‍💻 All of my projects are available at [https://easing-bee-02354289.figma.site/](https://easing-bee-02354289.figma.site/)
 
